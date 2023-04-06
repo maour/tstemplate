@@ -1,0 +1,7 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const config = {
+    verbose: true,
+};
+exports.default = config;
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiamVzdC5jb25maWcuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyJqZXN0LmNvbmZpZy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOztBQUVBLE1BQU0sTUFBTSxHQUFXO0lBQ3JCLE9BQU8sRUFBRSxJQUFJO0NBQ2QsQ0FBQztBQUVGLGtCQUFlLE1BQU0sQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB0eXBlIHsgQ29uZmlnIH0gZnJvbSAnamVzdCc7XG5cbmNvbnN0IGNvbmZpZzogQ29uZmlnID0ge1xuICB2ZXJib3NlOiB0cnVlLFxufTtcblxuZXhwb3J0IGRlZmF1bHQgY29uZmlnO1xuIl19
